@@ -13,7 +13,7 @@ A desktop tool designed to ban Instagram account by applying mass violation and 
 
 ## Installation
 
-1. Download the latest `volt.exe` file
+1. Download the latest `VOLT.exe` file
 2. Double-click the downloaded file to run VOLT
 3. No additional installation steps required!
 
@@ -32,7 +32,7 @@ email3@domain.com
 
 ### Submitting Reports
 
-1. Launch VOLT by double-clicking the `volt.exe` file
+1. Launch VOLT by double-clicking the `VOLT.exe` file
 2. Choose your report type:
    - **Violations Tab**: For violation reports
    - **Abuse/Harassment Tab**: For abuse or harassment reports
